@@ -1,6 +1,6 @@
 # TUIA - Visión por Computadora
 
-## CV_Practica
+## CV_Practicas
 "Repositorio destinado a compartir las actividades prácticas de la materia"
 
 ## Acceso a carpetas compartidas de Drive
