@@ -27,6 +27,11 @@ Luego sobre el mismo video aplique los algoritmos de flujo denso y disperso que 
 Escriba una reflexión sobre los resultados en el formato md dentro del Jupyter Notebook.
 6. (Entrega obligatoria individual en repo) Explique cuál es diferencia entre localización de objetos y clasificación de imágenes. Muestre ejemplos de ello.
 
+## Respuestas
+
+### Lab 5 A
+[![Ejercicio 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_1.ipynb)
+
 ## Acceso a carpetas compartidas de Drive
 Para descargar o visualizar correctamente los archivos que no puedan hacerlo en GitHub.
 
