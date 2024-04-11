@@ -29,8 +29,25 @@ Escriba una reflexión sobre los resultados en el formato md dentro del Jupyter 
 
 ## Respuestas
 
+### U1 - Ejercicios Completos
+[![Ejercicio Completo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Practica_Completo.ipynb)
+
 ### U1 - Ejercicio 1
 [![Ejercicio 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_1.ipynb)
+
+### U1 - Ejercicio 2
+[![Ejercicio 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_2.ipynb)
+
+### U1 - Ejercicio 4
+[![Ejercicio 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_4.ipynb)
+
+### U1 - Ejercicio 5
+[![Ejercicio 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_5.ipynb)
+
+### U1 - Ejercicio 6
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+
+
 
 ## Acceso a carpetas compartidas de Drive
 Para descargar o visualizar correctamente los archivos que no puedan hacerlo en GitHub.
