@@ -29,7 +29,7 @@ Escriba una reflexión sobre los resultados en el formato md dentro del Jupyter 
 
 ## Respuestas
 
-### Unidad 1
+### U1 - Ejercicio 1
 [![Ejercicio 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_1.ipynb)
 
 ## Acceso a carpetas compartidas de Drive
