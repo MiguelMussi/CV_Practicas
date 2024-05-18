@@ -35,27 +35,27 @@ Unidad 1 [![Unidad1](https://img.shields.io/badge/github-%23121011.svg?style=for
 ![Static Badge](https://img.shields.io/badge/💾_Código-✔️_Listo-green?style=flat)
 
 ### U1 - Ejercicio 8
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_8.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 ### U1 - Ejercicio 9
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_9.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 ### U1 - Ejercicio 10
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_10.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 ### U1 - Ejercicio 11
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_11.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 ### U1 - Ejercicio 12
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_12.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 ### U1 - Ejercicio 13
-[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_6.ipynb)
+[![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_13.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-important?style=flat)
 
 
