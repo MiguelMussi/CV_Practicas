@@ -36,5 +36,3 @@ Escriba una reflexión sobre los resultados en el formato md dentro del Jupyter 
 12. Tome fotos donde sólo se vea un rostro (suyo o de otras personas) desde distintos ángulos y en distintas posturas. Luego, utilizando la librería DeepFace verifique, comparando dichas fotos, si los rostros corresponden a la misma persona o no. 
 13. Experimente creando un programa que reemplace caras por un emoji que corresponda a la expresión de la cara en cuestión.  Analice si puede realizarlo en tiempo real.
 
-
-## Ejercicios Unidad 2
