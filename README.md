@@ -40,7 +40,7 @@
 
 ### U1 - Ejercicio 8
 [![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_8.ipynb)
-![Static Badge](https://img.shields.io/badge/💾_Código-🚧_En_Proceso-yellow?style=flat)
+![Static Badge](https://img.shields.io/badge/💾_Código-✔️_Listo-green?style=flat)
 
 ### U1 - Ejercicio 9
 [![Ejercicio 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/CV_Practicas/blob/master/Unidad_1_Ej_9.ipynb)
